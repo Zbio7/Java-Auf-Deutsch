@@ -1,4 +1,5 @@
 package exer1;
+
 public class HalloWelt {
     public static void main(String[] args) {
         // Schreibe unter dieser Zeile: System.out.println("Willkommen Detektiv Duke!");
