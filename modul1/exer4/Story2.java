@@ -7,5 +7,8 @@ class Story2 {
         
         ReadingRobot bookworm = new ReadingRobot();
         bookworm.giveTask2();
+
+        robin.sayAge();
     }
+
 }
