@@ -1,0 +1,10 @@
+package exer6;
+
+class Story {
+
+	public static void main(String[] args) {
+		Robot robin = new Robot();
+		robin.speakTwice("Hallo, ich bin Robin.");
+	}
+
+}
