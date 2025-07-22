@@ -10,8 +10,8 @@ class Robot {
 		    return true;
             
 		} else {
-		    //Ergänze in der nachfolgenden Zeile einen Rückgabewert
-            return false;
+		    //Ergänze in der nachfolgenden Zeile einen Rückgabewert.
+            return fals;
     	}
     }
 }

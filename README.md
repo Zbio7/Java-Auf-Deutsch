@@ -7,3 +7,4 @@ exer 4 methoden
 exer 5 Methoden mit Rückgabewerten.
 exer 6 Methoden mit Parameterübergabe
 exer 7 bool
+exer 8 schleifen
