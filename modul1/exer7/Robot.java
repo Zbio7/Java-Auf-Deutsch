@@ -11,7 +11,7 @@ class Robot {
             
 		} else {
 		    //Ergänze in der nachfolgenden Zeile einen Rückgabewert.
-            return fals;
+            return false;
     	}
     }
 }
