@@ -1,0 +1,9 @@
+class Story3 {
+
+    public static void main(String[] args) {
+        Robot robin = new Robot();
+        robin.decryptSender();
+    }
+
+}
+
