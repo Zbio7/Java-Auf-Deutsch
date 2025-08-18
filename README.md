@@ -8,3 +8,5 @@ exer 5 Methoden mit Rückgabewerten.
 exer 6 Methoden mit Parameterübergabe
 exer 7 bool
 exer 8 schleifen
+exer 9 arrays
+exer 10 Konstruktoren
